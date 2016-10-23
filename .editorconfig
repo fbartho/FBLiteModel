@@ -1,0 +1,17 @@
+root = true
+
+[*]
+# Default to tabs
+indent_style = tab
+
+# Render tabs as 4 spaces wide (in github and good editors)
+tab_width = 4
+
+# Miscellaneous
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# Insert any file-type specific overrides below here
+#[*.json]
+#indent_style = space
+#tab_width = 2
